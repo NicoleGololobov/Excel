@@ -1,2 +1,2 @@
 # Excel
-Using Microsoft Excel to analyze Titanic dataset
+Using Microsoft Excel to analyze data
